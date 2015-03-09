@@ -39,8 +39,11 @@
 -define:ENABLE_PROFILER
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
+'Assets/Layout.cs'
 'Assets/__Scripts/Card.cs'
+'Assets/__Scripts/CardProspector.cs'
 'Assets/__Scripts/Deck.cs'
+'Assets/__Scripts/Layout.cs'
 'Assets/__Scripts/PT_XMLReader.cs'
 'Assets/__Scripts/Prospector.cs'
 'Assets/__Scripts/Utils.cs'
